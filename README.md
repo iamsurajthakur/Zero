@@ -41,7 +41,7 @@ npm run deploy
 ```
 > ⚠️ Note: Make sure your package.json has the deploy script configured (usually using gh-pages) and GitHub Pages points to the correct branch (like gh-pages)
 
-## Customization
+## Customization in 30 seconds
 
 - *Change the target date*: Edit the date in CountdownTimer.jsx:
 ```bash
