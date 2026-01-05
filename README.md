@@ -4,6 +4,8 @@
 
 ## Live Demo
 
+🚀 **Live Application:** [Zero](https://iamsurajthakur.github.io/Zero/)
+
 You can host your own version on **GitHub Pages**
 
 - Your GitHub Pages link will look like: `https://<username>.github.io/<repo-name>/`
